@@ -43,9 +43,9 @@ about_stub: >
 
 about_footer: true
 
-twitter_username: AnkitSultana
+# twitter_username: AnkitSultana
 github_username: yourgithub
-facebook_id: yourusername
+# facebook_id: yourusername
 
 favicon: true
 favicon_location: "images/favicon.ico"
