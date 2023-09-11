@@ -57,7 +57,7 @@ body {
     }
     h2 {
         margin: $base-spacing 0;
-        margin-bottom: calc($base-spacing/1.1);
+        margin-bottom: $base-spacing/1.1;
         font-size: 40px;
         font-family: 'ubuntu';
         @media (max-width: $break-small) {
@@ -106,7 +106,7 @@ a:hover {
     font-size: 13px;
     border-radius: 20px;
     background: #fff;
-    padding: calc($base-spacing/4) $base-spacing;
+    padding: $base-spacing/4 $base-spacing;
     color: $medium-gray-color;
 }
 .button:hover {
@@ -140,7 +140,7 @@ footer, .wrapper:after {
 }
 footer {
     div {
-        padding: calc($base-spacing/2.5);
+        padding: $base-spacing/2.5;
         margin: 0px;
     }
     h2 {
@@ -175,7 +175,7 @@ footer {
     }
     @media (max-width: $break-medium) {
         .post-time {
-            margin-top: calc($base-spacing/2);
+            margin-top: $base-spacing/2;
             display: block;
             float: none;
         }
@@ -183,7 +183,7 @@ footer {
             display: block;
             float: none;
         }
-        margin: calc($base-spacing*1.1) 0;
+        margin: $base-spacing*1.1 0;
     }
 }
 .alignable {
@@ -277,18 +277,18 @@ hr {
     height: $about-image-size;
     width: $about-image-size;
     border-radius: $about-image-size;
-    margin: calc($base-spacing/3) calc($base-spacing/5);
+    margin: $base-spacing/3 $base-spacing/5;
     margin-right: $base-spacing;
 }
 .no-image {
     @extend .about-img;
-    height: calc($about-image-size/1.2);
-    width: calc($about-image-size/1.2);
-    border-radius: calc($about-image-size/1.2);
+    height: $about-image-size/1.2;
+    width: $about-image-size/1.2;
+    border-radius: $about-image-size/1.2;
     background: $accent-color;
 }
 .about-stub {
-    margin: 0 calc($base-spacing/2);
+    margin: 0 $base-spacing/2;
     padding: $base-spacing;
     font-weight: lighter;
     @media (max-width: $break-small) {

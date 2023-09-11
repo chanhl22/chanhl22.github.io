@@ -45,7 +45,7 @@
     }
     p {
         font-size: 19px;
-        margin: calc($base-spacing/3) 0;
+        margin: $base-spacing/3 0;
         font-weight: lighter;
     }
     a {
@@ -63,16 +63,16 @@
         color: #fff;
         background: $accent-color;
         border: none;
-        padding: calc($base-spacing/4) calc($base-spacing/2);
+        padding: $base-spacing/4 $base-spacing/2;
     }
     .disabled:hover {
         color: #fff;
         background: $accent-color;
         border: none;
-        padding: calc($base-spacing/4) calc($base-spacing/2);
+        padding: $base-spacing/4 $base-spacing/2;
     }
     .capsule {
-        padding: calc($base-spacing/4) calc($base-spacing/2);
+        padding: $base-spacing/4 $base-spacing/2;
         font-size: 17px;
         border-radius: 15px;
         background: $accent-color;
@@ -110,7 +110,7 @@
       border-radius: 0.3em;
     }
     ul, ol {
-        padding: calc($base-spacing/5) $base-spacing;
+        padding: $base-spacing/5 $base-spacing;
     }
     ul {
         list-style-type: circle;
