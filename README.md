@@ -1,53 +1,12 @@
-# accent
+# REFERENCE
 
-#### [Demo & Documentation](http://ankitsultana.com/accent)
-
-### Installation
-
-I'd strongly recommend you to fork [accent](http://github.com/bk2dcradle/accent) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo/) to
-keep accent up to date.
-
-If you don't want to do that, just clone [accent](http://github.com/bk2dcradle/accent) and use
-
-```bash
-bundle exec jekyll serve
-```
-in the root of the accent directory, or, simply [download](https://github.com/bk2dcradle/accent/archive/gh-pages.zip) accent.
-
-### Customization
-
-You can edit the variables in `_config.yml` as per your needs. Edit only the variables under the section marked *User Settings*.
-
-Most of the variables are self explanatory. Notes about few of the non obvious ones:
-
-1. You can change the **hex value** of the variable `$accent-color` in `_sass/_style.scss` to any color value that you want. This will change the accent of the theme.
-
-2. Set `intro` to `true` to reveal a short bio section on the index page.
-
-3. Setting `about_footer` to *true* or *false* will turn the `about` section at the bottom of every post to *on* or *off* respectively.
-
-4. `description` is the summary that will show up in places like facebook thumbnails,
-twitter cards and google search results.
-
-
-*Note:* Don't change any variable under *Build Settings*.
-
----
-
-### Usage
-
-* To create a new post, simply save the `.markdown` file in the `_posts` directory in the format.
-
-```
-year-month-day-name-of-the-file.markdown
-```
-
-* For Syntax highlighting, accent uses *Rouge* which is the default highlighter in Jekyll 3 and above. If you don't know how to highlight a code block, [refer](http://jekyllrb.com/docs/templates/).
-
-* To set up Google Analytics tracking id, just set the `tracking_id` variable in `_config.yml`.
-
----
-
-### License
-
-[MIT](https://github.com/bk2dcradle/accent/blob/gh-pages/LICENSE). Copyright &copy; [Ankit Sultana](http://twitter.com/AnkitSultana)
+* accent
+  * https://github.com/ankitsultana/accent
+  * https://jamstackthemes.dev/theme/jekyll-accent/
+* 블로그 만들기 참고
+  * https://zeddios.tistory.com/1222
+  * https://zeddios.tistory.com/1223
+* Ruby 설치 참고
+  * https://docs.3rdeyesys.com/etc/etc_jekyll_install.html#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%A4%ED%96%89-%EC%A0%91%EC%86%8D
+* jekyll-paginate 에러
+  * https://swifteyes.blogspot.com/2016/12/jekyll-github.html
