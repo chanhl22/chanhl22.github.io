@@ -1,10 +1,10 @@
 ---
 ---
-
+<hr>
 > [노션 바로가기](https://chanhl22.notion.site/Spring-JPA-b5fc7a69418743019225a612b253bbea)
+<hr>
 
-Spring 이것저것
-
+## Spring 이것저것
 1. [정적 리소스, 뷰 템플릿의 @ResponseStatus 를 사용한 예외처리](https://chanhl22.notion.site/ResponseStatus-d2a6e0ee4e9b4a9395e926f9412ccd3b)
 2. [@GetMapping 과 @RequestBody 는 불가능?](https://chanhl22.notion.site/GetMapping-RequestBody-00d0a3b20f4e4f6ab5b03c776d6878a8)
 3. [Apache Poi - 엑셀 다운로드](https://chanhl22.notion.site/Apache-Poi-a1cbf23f082240bda8d4221242dc4e33)
@@ -15,3 +15,5 @@ Spring 이것저것
 8. [String 을 LocalDateTime 로 변환하기](https://chanhl22.notion.site/String-LocalDateTime-84e459fff3974f59b6f81adfc09d549e)
 9. [다형성을 활용해서 분기처리하기 (feat. enum)](https://chanhl22.notion.site/feat-enum-07befeb72dac49a3ba69741967994198)
 10. [스프링 부트 애플리케이션을 도커 이미지로 빌드 후 실행하기](https://chanhl22.notion.site/99ea795af2c44b1c8f56fe239631bdc3)
+
+<br>
