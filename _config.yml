@@ -39,12 +39,12 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    <a href="https://chanhl22.notion.site/chanhl22/ee18830c71e144359e3d07d4979e62bc">Notion 바로가기 : https://chanhl22.notion.site/chanhl22/ee18830c71e144359e3d07d4979e62bc</a>
 
 about_footer: true
 
 # twitter_username: AnkitSultana
-github_username: yourgithub
+github_username: chanhl22
 # facebook_id: yourusername
 
 favicon: true
