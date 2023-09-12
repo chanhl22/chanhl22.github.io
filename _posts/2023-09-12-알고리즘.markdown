@@ -1,0 +1,11 @@
+---
+---
+<hr>
+> [알고리즘 풀이 정리 바로가기](https://chanhl22.notion.site/Java-b8cfc71d17134ccaa5e2102080d99e13)
+<hr>
+
+## 알고리즘 개념 정리
+1. [브루트포스 - 재귀](https://chanhl22.notion.site/ddecef5703a64e1db5ea6efc2d117176)
+2. [그래프의 표현](https://chanhl22.notion.site/ed240f7325bd480db0fc438824ce276c)
+
+<br>
